@@ -1,3 +1,7 @@
+
 update more information
 
 Devfiles text to be modified
+
+have soe automation script
+ qa
